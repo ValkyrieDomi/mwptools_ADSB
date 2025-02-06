@@ -2,6 +2,12 @@ My own customized release
 ==================
 Full opacity for icons and ONLY black stroke around ADSB planes. 
 
+Install https://www.daria.co.uk/mwptools/Building-with-meson-and-ninja/
+
+
+
+
+
 
 mwptools revisited
 ==================
