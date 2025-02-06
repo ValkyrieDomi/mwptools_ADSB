@@ -171,7 +171,7 @@ namespace Radar {
 			rp  = new MWPMarker.from_image(img);
             rp.set_selectable(false);
 			rp.no = (int)rk;
-			rp.opacity = 0.8;
+			rp.opacity = 1.0;
 			Gis.rm_layer.add_marker (rp);
 			rp.has_tooltip = true;
 			rp.query_tooltip.connect((x,y,k,t) => {
@@ -241,7 +241,7 @@ namespace Radar {
 	public void set_radar_stale(uint rid) {
         var rp = find_radar_item(rid);
         if(rp != null) {
-            rp.opacity = 0.5;
+            rp.opacity = 1.0;
         }
     }
 

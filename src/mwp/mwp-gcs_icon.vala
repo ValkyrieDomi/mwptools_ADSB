@@ -34,7 +34,7 @@ namespace GCS {
 			icon = new MWPMarker.from_image(img);
 			Gis.info_layer.add_marker (icon);
 			icon.visible = false;
-			icon.opacity = 0.6;
+			icon.opacity = 1.0;
 			icon.set_draggable(true);
 			if(Gpsd.reader != null) {
 				Gpsd.reader.gpsd_result.connect((s) => {

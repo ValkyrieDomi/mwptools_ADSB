@@ -540,7 +540,7 @@ namespace MsnTools {
 			}
 		}
 		if(have_hp) {
-			HomePoint.hp.opacity = 0.5;
+			HomePoint.hp.opacity = 1.0;
 		}
 
 		for(var i = 0; i < m.npoints; i++) {
