@@ -4,6 +4,9 @@ Full opacity for icons and ONLY black stroke around ADSB planes.
 
 Install https://www.daria.co.uk/mwptools/Building-with-meson-and-ninja/
 
+![image](https://github.com/user-attachments/assets/70be1076-fabb-44ca-be48-4b8198fd417d)
+
+
 
 
 
