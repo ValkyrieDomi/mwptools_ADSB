@@ -1,4 +1,5 @@
-## My own customizef release.
+My own customized release
+==================
 Full opacity for icons and ONLY black stroke around ADSB planes. 
 
 
