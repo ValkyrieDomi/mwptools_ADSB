@@ -1,3 +1,7 @@
+## My own customizef release.
+Full opacity for icons and ONLY black stroke around ADSB planes. 
+
+
 mwptools revisited
 ==================
 
